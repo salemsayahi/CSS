@@ -1,0 +1,20 @@
+.menu>li{display:inline-block}
+body   { 
+    font-family: 'Roboto', sans-serif;
+    margin-left: 12.5%;
+  margin-right: 12.5%;
+  background-color: silver;
+   }
+   
+hr {
+      border-top: 3px solid orange ;
+    }
+.rubrique {color: orange;}
+.sr {color:blue;}
+    
+ li{ list-style-type: none}
+
+    cv {
+        float:left;
+        }
+ P { text-align: center }
